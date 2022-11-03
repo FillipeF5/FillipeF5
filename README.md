@@ -10,4 +10,4 @@
 
 
 # STATISTICS
-[![Me's GitHub stats](https://github-readme-stats.vercel.app/api?username=FillipeF5&hide=stars&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Me's GitHub stats](https://github-readme-stats.vercel.app/api?username=FillipeF5&hide=stars&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
