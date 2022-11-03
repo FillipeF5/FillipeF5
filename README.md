@@ -1,9 +1,9 @@
-Hi there 👋
-My name is Fillipe
-I'm a Front-End Developer, looking for a Job...
+Hi there 👋<br />
+My name is Fillipe<br />
+I'm a Front-End Developer, looking for a Job...<br />
 
 
-BIO
-:books: I graduated from a Full Stack's course by Digital House Brasil
-🌱 I'm currently learning a little more about UX/UI design, specifically Figma ⚙️
-⚡️ Fun fact: I'm huge fan of The Big Bang Theory and Marvel Super Heroes
+BIO<br />
+:books: I graduated from a Full Stack's course by Digital House Brasil<br />
+🌱 I'm currently learning a little more about UX/UI design, specifically Figma ⚙️<br />
+⚡️ Fun fact: I'm huge fan of The Big Bang Theory and Marvel Super Heroes<br />
