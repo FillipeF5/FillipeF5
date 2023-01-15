@@ -1,6 +1,6 @@
 # Hi there 👋<br />
 :alien: My name is Fillipe   <br />
-:computer: I'm a Front-End Developer and Web Design, looking for a Job...<br />
+:computer: I'm a Front-End Developer and Web Designer, looking for a Job...<br />
 
 
 # BIO<br />
