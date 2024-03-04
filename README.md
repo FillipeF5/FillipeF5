@@ -1,11 +1,12 @@
 # Hi there 👋<br />
 :alien: My name is Fillipe   <br />
-:computer: I'm a Front-End Developer and Web Designer, looking for a Job...<br />
+:computer: I'm a Developer, looking for a opportunity...<br />
 
 
 # BIO<br />
 :books: I graduated from a Full Stack's course by Digital House Brasil<br />
-🌱 I'm currently learning a little more about UX/UI design, specifically Figma ⚙️<br />
+:books: I'm a student on the Systems Analysis and Development course <br/>
+🌱 I'm currently learning a little more about Java ⚙️<br />
 ⚡️ Fun fact: I'm a huge fan of The Big Bang Theory and Marvel Super Heroes<br />
 
 
