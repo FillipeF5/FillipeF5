@@ -6,7 +6,7 @@ Em busca de novas oportunidades para aplicar e expandir meus conhecimentos.
 ## Sobre Mim
 📚 Formação:
 
-Cursado em Desenvolvimento Web Full Stack pela Digital House Brasil
+Cursado em Desenvolvimento Web Full Stack pela Digital House Brasil</br>
 Estudante de Análise e Desenvolvimento de Sistemas na faculdade UniAmerica/Descomplica
 
 ⚙️ Atualmente aprendendo:
