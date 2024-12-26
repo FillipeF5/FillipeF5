@@ -17,7 +17,7 @@ Atuo como assistente de coordenação em empresa de grande porte, o que me ajudo
 Tenho interesse em seguir a área de dados, utilizando BI.
 
 🎉 Curiosidades:
-Grande fã de The Big Bang Theory e dos super-heróis da Marvel!
+Grande fã da série The Big Bang Theory
 
 # STATISTICS
 [![Me's GitHub stats](https://github-readme-stats.vercel.app/api?username=FillipeF5&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
