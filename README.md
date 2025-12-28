@@ -5,13 +5,13 @@
 📚 Formação:
 
 Cursado em Desenvolvimento Web Full Stack pela Digital House Brasil</br>
-Estudante de Análise e Desenvolvimento de Sistemas na faculdade UniAmerica/Descomplica
+Graduado em Análise e Desenvolvimento de sistemas pela UniAmérica/Descomplica
 
 ⚙️ Atualmente aprendendo:
-Aprimorando habilidades em dados e explorando novas tecnologias
+Aprimorando habilidades em Python
 
 💼 Experiência:
-Atuo como analista de sistemas com foco em SQL e BI, nível técnico.
+Atuo como assistente em tecnologia, com foco em Dados/BI.
 
 🎉 Curiosidades:
 Grande fã da série The Big Bang Theory
