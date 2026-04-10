@@ -2,7 +2,7 @@
 :alien: Me chamo Fillipe
 
 ## Sobre Mim
-Profissional de TI com foco em BI.
+Profissional de TI com foco em BI</br>
 Data Driven | ETL | SQL | PowerBI
 
 📚 Formação:
